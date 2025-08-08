@@ -41,7 +41,7 @@ You can download it from the drive:
 2.**Install Dependencies**
 ```bash
 pip install -r requirements.txt
-
+```
 3.**Run the Notebook**
 Open the notebook fraud_detection_model(Random_forest).ipynb in Jupyter and run all cells step-by-step.
 
