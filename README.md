@@ -36,8 +36,8 @@ You can download it from the drive:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/fraud-detection-randomforest.git
-   cd fraud-detection-randomforest
+   git clone https://github.com/donthireddysaivarshini/Fraud_Detection.git
+   
 2.**Install Dependencies**
 ```bash
 pip install -r requirements.txt
